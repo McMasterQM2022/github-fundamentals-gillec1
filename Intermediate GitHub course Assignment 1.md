@@ -1,8 +1,3 @@
 ## Intermediate GitHub course certificate of completion
 
-![Screen%20Shot%202022-01-19%20at%2011.29.59%20AM.png](attachment:Screen%20Shot%202022-01-19%20at%2011.29.59%20AM.png)
-
-
-```python
-
-```
+<img width="1512" alt="Screen Shot 2022-01-19 at 11 29 59 AM" src="https://user-images.githubusercontent.com/97477062/150174423-632f5e67-f503-4e23-a0b0-30e744d49268.png">
