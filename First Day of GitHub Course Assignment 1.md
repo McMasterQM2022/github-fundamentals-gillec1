@@ -1,3 +1,3 @@
 ## First Day of GitHub proof of completion
 
-![Screen%20Shot%202022-01-19%20at%2011.16.48%20AM.png](attachment:Screen%20Shot%202022-01-19%20at%2011.16.48%20AM.png)
+<img width="1512" alt="Screen Shot 2022-01-19 at 11 16 48 AM" src="https://user-images.githubusercontent.com/97477062/150174035-af22e03e-8128-4302-af73-1b0893e76576.png">
